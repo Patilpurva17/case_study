@@ -1,0 +1,6 @@
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\bin\Debug\FinanceManagementSystem.Entity.dll
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\bin\Debug\FinanceManagementSystem.Entity.pdb
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.csproj.AssemblyReference.cache
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.dll
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.pdb

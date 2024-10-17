@@ -1,0 +1,9 @@
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\bin\Debug\FinanceManagementSystem.BusinessLayer.dll
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\bin\Debug\FinanceManagementSystem.BusinessLayer.pdb
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\obj\Debug\FinanceManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\obj\Debug\FinanceManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\obj\Debug\FinanceManagementSystem.BusinessLayer.dll
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\obj\Debug\FinanceManagementSystem.BusinessLayer.pdb
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\bin\Debug\FinanceManagementSystem.Entity.dll
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\bin\Debug\FinanceManagementSystem.Entity.pdb
+D:\Purva\Hexaware training\case study\FinanceManagementSystem.BusinessLayer\obj\Debug\FinanceM.C2097767.Up2Date
